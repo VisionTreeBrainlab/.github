@@ -1,7 +1,7 @@
-✨ VisionTree Guidelines ✨
+### ✨ VisionTree Guidelines ✨
 
-🐙 Git [Branching and Merging](https://github.com/visiontree-software/vt-rd-content/wiki/Branching-and-Merging) Guidelines
+🐙 [Git Branching and Merging Guidelines](https://github.com/visiontree-software/vt-rd-content/wiki/Branching-and-Merging) 
 
-🤓 Dev Guidelines Coding Conventions (TODO)
+🤓 [Dev Guidelines and Coding Conventions](https://github.com/visiontree-software/vt-rd-content/wiki/Dev-Guidelines-and-Coding-Conventions)
 
-🔥 Data Modeling Guidelines (TODO)
+🔥 [Data Modeling Guidelines](https://github.com/visiontree-software/vt-rd-content/wiki/Data-Modeling-Guidelines)
