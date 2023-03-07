@@ -1,4 +1,4 @@
-### ✨ VisionTree Guidelines ✨
+### ✨ Visiontree Guidelines ✨
 
 🐙 [Git Branching and Merging Guidelines](https://github.com/visiontree-software/vt-rd-content/wiki/Branching-and-Merging) 
 
